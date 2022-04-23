@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:aimranov@seas.upenn.edu" target="blank"><img align="center" src="https://drive.google.com/file/d/1cqL3bQjHV9kVgNM_KK5vasoFv1w9qatC/view?usp=sharing" alt="imranovaydin" height="30" width="40" /></a>
+<a href="mailto:aimranov@seas.upenn.edu" target="blank"><svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+  <path strokeLinecap="round" strokeLinejoin="round" d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207" />
+</svg></a>
 <a href="https://twitter.com/imranovaydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranovaydin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aydin-imranov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydin-imranov" height="30" width="40" /></a>
 <a href="/https://blog.aydinimranov.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.aydinimranov.com/rss.xml" height="30" width="40" /></a>
