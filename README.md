@@ -68,10 +68,10 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/aydin-imranov" target="_blank">
+  <a href="https://linkedin.com/in/aydin-imranov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="twitter.com/ImranovAydin" target="_blank">
+  <a href="https://twitter.com/ImranovAydin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
