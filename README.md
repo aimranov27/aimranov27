@@ -14,10 +14,6 @@
 
 ###
 
-<h2 align="left">I'm comfortable with</h2>
-
-###
-
 <h2 align="left">Say hi</h2>
 
 ###
