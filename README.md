@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Aydin</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🇦🇿 Born & raised in Baku<br>📚 Penn'22<br>✨ Creating bugs since 2015<br>🧐 Interested in AI, ML & solving real-world problems</p>
+<p align="left">My name is Aydin and as cliche as it sounds, I love building!</p>
 
 ###
 
